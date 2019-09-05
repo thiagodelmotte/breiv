@@ -1,0 +1,16 @@
+
+"buyerTitle" = "Comprador";
+
+"statusDateTitle" = "Criado em";
+"statusUpdatedTitle" = "Status";
+
+"billTitle" = "Resumo Financeiro";
+"billTotalTitle" = "Valor Total";
+"billTaxTitle" = "Taxas";
+"billNetTitle" = "Meu recebimento";
+
+"paymentTitle" = "Pagamentos";
+"paymentQtd" = "%d pagamento(s)";
+
+"formLoader" = "Montando pedido...";
+"fetchApiError" = "Ops! Não conseguimos montar o pedido =(";

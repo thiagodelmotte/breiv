@@ -1,0 +1,12 @@
+
+"noInternetMessage" = "Sua internet caiu =(";
+"expiredSessionMessage" = "Sua sessão expirou =(";
+"logout" = "Sair";
+
+"orderStatusReverted" = "Revertida";
+"orderStatusPaid" = "Pago";
+"orderStatusWaiting" = "Aguardando";
+
+"CREDIT_CARD" = "Cartão de Crédito";
+"DEBIT_CARD" = "Cartão de Débito";
+"BOLETO" = "Boleto Bancário";
